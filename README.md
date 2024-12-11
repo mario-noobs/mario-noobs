@@ -29,7 +29,3 @@ Welcome to my GitHub profile! I'm passionate about building powerful backends an
 
 ### ⚡ Fun fact:
 - I love solving puzzles and applying the same problem-solving skills to coding challenges!
-
----
-
-Now, it’s in a bulleted format, perfect for your GitHub profile!
