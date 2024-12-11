@@ -20,11 +20,12 @@ Open-source projects in the AI or backend space.
 Machine learning models and research.
 
 📫 How to reach me ...
-Email: fcb2124@gmail.com
-LinkedIn: linkedin.com/in/mario-noobs
-Twitter: None
+- Email: fcb2124@gmail.com
+- LinkedIn: linkedin.com/in/mario-noobs
+- Twitter: None
 
 😄 Pronouns: He/Him
+
 ⚡ Fun fact:
 I love solving puzzles and applying the same problem-solving skills to coding challenges!
 Feel free to modify any of the placeholders or sections to match your preferences!
